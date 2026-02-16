@@ -118,7 +118,7 @@ When a backup is created, bkup compress the world in a .zip, this .zip is later 
 The command `/bkup compression <mode>` changes the way in wich the folders .zip are stored
 # Road Map
 - Forge and NeoForge
-- Fix known bugs
+- Fix [known bugs](https://github.com/BlanqKy/bkups/issues)
 - Make all versions as similar as possible
 # Credits
 - Blanq_Ky: Mod and versions development, project lead
