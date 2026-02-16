@@ -121,5 +121,5 @@ The command `/bkup compression <mode>` changes the way in wich the folders .zip 
 - Fix known bugs
 - Make all versions as similar as possible
 # Credits
-- Blanq_Ky:
-- TrasTick:
+- Blanq_Ky: Mod and versions development, project lead
+- TrasTick: Responsible for descriptions on CurseForge and Modrinth pages
