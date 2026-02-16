@@ -25,7 +25,7 @@ You can add your backups to your favorites. The advantages are:
 - Your backup will not be deleted by auto-cleanup
 - Better visibility of your backups
 ## Tree Structure
-The tree structure works to view backups easily (not working in `1.21.9-1.21.11`)
+The tree structure works to view backups easily (disable in `1.21.9-1.21.11`)
 # Commands
 - `/bk [custom_name]` If you want to make a manual backup (`[custom_name]` it's used to name the backup)
 - `/bkup <subcomand>` To do a lot of option to customization, **more about it bellow**
