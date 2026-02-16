@@ -115,6 +115,7 @@ Bkups creates a folder in `.minecraft\bkups` if any bkup is created (excluding l
 Following this logic, if only one backup has been created in `.minecraft\bkups\manual` it will only be create in that specific folder
 ## Backups to World
 When a backup is created, bkup compress the world in a .zip, this .zip is later decompress after restaured
+
 The command `/bkup compression <mode>` changes the way in wich the folders .zip are stored
 # Road Map
 - Forge and NeoForge
