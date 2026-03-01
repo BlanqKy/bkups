@@ -113,6 +113,8 @@ The tree structure works to view backups easily (disable in `1.21.9-1.21.11`)
 Bkups creates a folder in `.minecraft\bkups` if any bkup is created (excluding legacy ones, they are stored in `.minecraft\backups`, wich is the vanilla minecraft folder)
 
 Following this logic, if only one backup has been created in `.minecraft\bkups\manual` it will only be create in that specific folder
+
+This means that it is a local backup system, which means that all related files are on your PC.
 ## Backups to World
 When a backup is created, bkup compress the world in a .zip, this .zip is later decompress after restaured
 
