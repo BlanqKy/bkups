@@ -122,7 +122,6 @@ The command `/bkup compression <mode>` changes the way in wich the folders .zip 
 # Road Map
 - Forge and NeoForge
 - Fix [known bugs](https://github.com/BlanqKy/bkups/issues)
-- Make all versions as similar as possible
 # Credits
 - Blanq_Ky: Mod and versions development, project lead
 - TrasTick: Responsible for descriptions on CurseForge and Modrinth pages
