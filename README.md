@@ -19,7 +19,7 @@
 - **Exit:** this backup is made whenever you leave the world you're in
 - **Legacy:** this type of backups are the ones that are created with the minecraft settings
 ## Whopper System
-This system lets you switch worlds without having to go back to the main menu (`Only in V3`)
+This system lets you switch worlds without having to go back to the main menu
 ![WorldSwitcher](https://cdn.modrinth.com/data/cached_images/0293a6542c181364b3b12fce4c799ce9de922c0a.png)
 
 
@@ -30,10 +30,10 @@ With the trash, you can **permanently delete** the backup or **recover** it
 
 ## Settings Menu
 ![settings](https://cdn.modrinth.com/data/cached_images/75799b08cee82d862e618c1583d17faf2e893dd2.png)
-A settings menu so you don't have to use commands (`Only in V3`)
+A settings menu so you don't have to use commands
 ## Detailed Backup
-To access this screen, double-click on a backup in the backup manager (`Only in V3`)
-![Detailed](https://cdn.modrinth.com/data/cached_images/425be95dc2a6d72af5637fa4a2e932bbf42a7135.png)
+To access this screen, double-click on a backup in the backup manager
+![Det](https://cdn.modrinth.com/data/cached_images/fa3fce77dcec8e45f2852802453573d61e3fefb1.png)
 
 ## Favorites
 You can add your backups to your favorites. The advantages are:
@@ -144,7 +144,7 @@ These .zip files are complete compressed copies of your world, so no data is los
 
 The command `/bkup compression <mode>` changes the way in wich the folders .zip are stored
 # Road Map
-- Forge and NeoForge (Soon!)
+- Continue updating the mod with unique and useful ideas
 - Fix [known bugs](https://github.com/BlanqKy/bkups/issues)
 # Credits
 - Blanq_Ky: Mod and versions development, project lead
