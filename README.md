@@ -145,6 +145,7 @@ These .zip files are complete compressed copies of your world, so no data is los
 The command `/bkup compression <mode>` changes the way in wich the folders .zip are stored
 # Road Map
 - Continue updating the mod with unique and useful ideas
+- Provide the ability to create incremental and differential backups (currently, only full backups are available, with two different types of compression).
 - Fix [known bugs](https://github.com/BlanqKy/bkups/issues)
 # Credits
 - Blanq_Ky: Mod and versions development, project lead
